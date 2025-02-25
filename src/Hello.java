@@ -1,6 +1,8 @@
 public class Hello {
     public static void main(String[] args) {
         helloWorld();
+        olaMundo();
+        holaQueTal();
     }
 
     public static void helloWorld() {
